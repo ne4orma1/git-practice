@@ -1,4 +1,4 @@
-Line 1: hello
+Line 1: hello from feature
 Line 2: world
 Line 3: end
-Line 3: greeting
+Line 4: greeting
